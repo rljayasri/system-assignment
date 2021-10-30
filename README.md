@@ -18,6 +18,8 @@ As GO was new to me, I researched more on the CLI setup and went through couple 
 * Endpoint4 : GET stats about no. of requests and average.  
 * Creating a cloudflare tunnel endpoint: 
 
+## Grading:  
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/91042044/139554238-9460cea2-49d4-436a-8859-271419ec0554.png">
 
 
 

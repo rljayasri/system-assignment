@@ -16,7 +16,7 @@ As GO was new to me, I researched more on the CLI setup and went through couple 
 ## Extra credits:
 * Endpoint3 : GET Readme  
 * Endpoint4 : GET stats about no. of requests and average.  
-* Creating a cloudflare tunnel endpoint: 
+* Creating a cloudflare tunnel endpoint
 
 ### Grading:  
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/91042044/139554223-4f89fc50-7d38-4674-933b-867b0f33df2a.png">
